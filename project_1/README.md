@@ -20,11 +20,6 @@
 - Учимся работать с IDE.
 - Учимся работать с GitHub.
 
+* [Проект 1. Игра: Угадай число](https://github.com/dohsi/IDE)
 
 
-
-
-* [Проект 1. Игра: Угадай число](https://github.com/dohsi/dohsi_ds/project_1)
-
-
-## Ссылки на резюме
