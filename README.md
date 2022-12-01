@@ -2,7 +2,7 @@
 
 From the [SkillFactory Data Science course]()
 
-## Проекты
+# Проекты
 
 * [Проект 0. Игра: Угадай число](https://github.com/dohsi/dohsi_ds/project_0)
 
